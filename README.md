@@ -2,7 +2,7 @@
 https://buildingai.elementsofai.com <br>
 Made by [Pranav Verma](https://pranavv.co.in).
 
-<embed src="certificate.pdf" type="application/pdf" width="100%" height="500px">
+<img src="https://github.com/user-attachments/assets/aac5ad0c-7e1a-4acc-939e-a952f9a8c975" alt="certificate-bai-advanced" style="height: 1000px;">
 
 [Course](course) folder contains all my Answers for the Quiz. <br>
 Below is my Project Idea for the Final Submission.
