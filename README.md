@@ -2,6 +2,8 @@
 https://buildingai.elementsofai.com <br>
 Made by [Pranav Verma](https://pranavv.co.in).
 
+<embed src="certificate.pdf" type="application/pdf" width="100%" height="500px">
+
 [Course](course) folder contains all my Answers for the Quiz. <br>
 Below is my Project Idea for the Final Submission.
 
